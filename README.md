@@ -1,4 +1,4 @@
-# My Qt App
+# My Grade Calculator App
 
 ## Download
 Go to Releases and download the latest version.
@@ -9,3 +9,4 @@ Go to Releases and download the latest version.
 
 ## Requirements
 - Windows 10/11
+## made by haroonmughalgfx
